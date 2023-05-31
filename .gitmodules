@@ -1,0 +1,15 @@
+[submodule "assignment1"]
+	path = assignment1
+	url = git@bitbucket.org:modern-web-application/assignment1.git
+[submodule "assignment2"]
+	path = assignment2
+	url = git@bitbucket.org:modern-web-application/assignment2.git
+[submodule "assignment3"]
+	path = assignment3
+	url = git@bitbucket.org:modern-web-application/assignment3.git
+[submodule "assignment4"]
+	path = assignment4
+	url = git@bitbucket.org:modern-web-application/assignment4.git
+[submodule "assignment5"]
+	path = assignment5
+	url = git@bitbucket.org:modern-web-application/assignment5.git
